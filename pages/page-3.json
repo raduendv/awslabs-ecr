@@ -1,0 +1,22 @@
+[
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/nova-canvas-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-bedrock-data-automation-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/cdk-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/timestream-for-influxdb-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/cloudtrail-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-msk-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/amazon-qbusiness-anonymous-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-bedrock-custom-model-import-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/document-loader-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/healthlake-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-appsync-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-network-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/cloudwatch-logs-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/amazon-rekognition-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/lambda-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/healthimaging-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-for-sap-management-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/amazon-translate-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/security-agent-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/mssql-mcp-server"
+]

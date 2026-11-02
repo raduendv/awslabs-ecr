@@ -1,0 +1,12 @@
+[
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/oracle-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/well-architected-security-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-support-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/sagemaker-ai-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/git-repo-research-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/amazon-keyspaces-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-appsynce-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/sagemaker-hyperpod-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/roda-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/db2-mcp-server"
+]

@@ -1,0 +1,22 @@
+[
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/redshift-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/amazon-mq-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/s3-tables-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/elasticache-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/cfn-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/mysql-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/memcached-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/valkey-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/cloudwatch-applicationsignals-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/amazon-bedrock-agentcore-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/amazon-kendra-index-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-location-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/lambda-tool-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/iam-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/stepfunctions-tool-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/cloudwatch-appsignals-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/openapi-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-iot-sitewise-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-iac-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/prometheus-mcp-server"
+]

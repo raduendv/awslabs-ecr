@@ -1,0 +1,22 @@
+[
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-documentation-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-api-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/cost-analysis-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/amazon-neptune-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/eks-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/cost-explorer-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-pricing-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/cloudwatch-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/terraform-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/core-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/dynamodb-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/postgres-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/billing-cost-management-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-diagram-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/bedrock-kb-retrieval-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-healthomics-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/ccapi-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aurora-dsql-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/amazon-sns-sqs-mcp-server",
+  "https://gallery.ecr.aws/awslabs-mcp/awslabs/aws-dataprocessing-mcp-server"
+]
